@@ -20,7 +20,7 @@ h1{
     padding: 20px;
     margin: 0px;
     font-size: 30px;
-    background-color:rgb(42, 16, 16); 
+    background-color: #1e1a13; 
 }
 
 .contenedor1{
@@ -33,7 +33,7 @@ h1{
     display: flex;
     color: white;
     justify-content: center;
-    background-color:rgb(42, 16, 16);
+    background-color:#1e1a13;
 }
 
 .galeria{
@@ -71,7 +71,7 @@ h1{
     justify-content: center;
     color: white;
     justify-items: center;
-    background-color:rgb(42, 16, 16); 
+    background-color:#1e1a13; 
 }
 
 a{
